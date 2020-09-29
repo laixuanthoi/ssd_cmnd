@@ -1,0 +1,23 @@
+
+item {
+    id: 1
+    name: 'hinh'
+}
+
+item {
+    id: 2
+    name: 'maso'
+}
+item {
+    id: 3
+    name: 'ten'
+}
+
+item {
+    id: 4
+    name: 'ngaysinh'
+}
+item {
+    id: 5
+    name: 'diachi'
+}
