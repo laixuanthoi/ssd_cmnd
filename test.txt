@@ -1,0 +1,1 @@
+python .\generate_tfrecord.py -x .\workspace\training_demo\datasets\train\ -l .\workspace\training_demo\annotations\label_map.pbtxt -o .\workspace\training_demo\annotations\train.record
