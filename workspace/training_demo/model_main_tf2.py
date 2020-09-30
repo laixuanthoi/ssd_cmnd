@@ -29,7 +29,7 @@ python model_main_tf2.py -- \
 """
 from absl import flags
 import tensorflow.compat.v2 as tf
-from models.research.object_detection import model_lib_v2
+from object_detection import model_lib_v2
 
 flags.DEFINE_string('pipeline_config_path', None, 'Path to pipeline config '
                     'file.')
