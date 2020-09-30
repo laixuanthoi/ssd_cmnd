@@ -1,23 +1,23 @@
 
 item {
     id: 1
-    name: 'hinh'
+    name: '0'
 }
 
 item {
     id: 2
-    name: 'maso'
+    name: '1'
 }
 item {
     id: 3
-    name: 'ten'
+    name: '2'
 }
 
 item {
     id: 4
-    name: 'ngaysinh'
+    name: '3'
 }
 item {
     id: 5
-    name: 'diachi'
+    name: '4'
 }
